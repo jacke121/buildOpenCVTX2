@@ -2,6 +2,9 @@
 Build and install OpenCV for the NVIDIA Jetson TX2
 文档：https://blog.csdn.net/zong596568821xp/article/details/80405816
 
+还有这个：
+https://blog.csdn.net/zong596568821xp/article/details/80306987
+
 These scripts build OpenCV version 3.4 for the NVIDIA Jetson TX2 Development Kit. Please see Releases/Tags for earlier versions.
 
 OpenCV is a rich environment which can be configured in many different ways. You should configure OpenCV for your needs, by modifying the build file "buildOpenCV.sh". Note that selecting different options in OpenCV may also have additional library requirements which are not included in these scripts. Please read the notes below for other important points before installing.
