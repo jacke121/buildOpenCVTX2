@@ -1,5 +1,6 @@
 # buildOpenCVTX2
 Build and install OpenCV for the NVIDIA Jetson TX2
+文档：https://blog.csdn.net/zong596568821xp/article/details/80405816
 
 These scripts build OpenCV version 3.4 for the NVIDIA Jetson TX2 Development Kit. Please see Releases/Tags for earlier versions.
 
